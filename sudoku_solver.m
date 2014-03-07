@@ -1,3 +1,6 @@
+%The matrix A takes the input. Replace all the blank spaces with zero. 
+
+
 A = [...
 0 0 0 2 0 0 0 6 3;
 3 0 0 0 0 5 4 0 1;
